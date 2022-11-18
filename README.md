@@ -14,32 +14,24 @@
   <a href="https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA"><img title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <h4 align="center">
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
+### `—◉ ⛩️ DUDAS SOBRE EL BOT?, CONTACTANOS ⛩️`
 <a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/Alexis_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5493813403468" target="blank"><img src="https://img.shields.io/badge/Armand_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/SNT_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/51975216165" target="blank"><img src="https://img.shields.io/badge/Gael_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593991398786" target="blank"><img src="https://img.shields.io/badge/CARLOSTWT_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51996089079" target="blank"><img src="https://img.shields.io/badge/GHOST_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51995386439" target="blank"><img src="https://img.shields.io/badge/NEKOSMIC_MATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/15595272586" target="blank"><img src="https://img.shields.io/badge/Multiverse-bot_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
+### `—◉ 💌 GRUPO DE SOPORTE 💌`
 
-<a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="desarrollo" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+### `—◉ 🍀 BOTS OFICIALES 🍀`
 
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
-
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
@@ -47,21 +39,11 @@
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
 
-### `—◉ 💕 PLUGINS 💕`
-- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
-  
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
-
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
+### `—◉ 🧬 ACTIVAR EN TERMUX 🧬` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 cd && termux-setup-storage
@@ -147,6 +129,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Multi-bot-md"><img src="https://github.com/Multi-bot-md.png" width="250" height="250" alt="Multi-bot-md"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`Multiverse-Bot-MD - By Alexis OFC`
