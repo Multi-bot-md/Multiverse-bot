@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let picture = './Menu.png'
+let picture = './68747470733a2f2f692e6962622e636f2f474d67626a43742f494d472d32303232303632322d5741303030312e6a7067.jpeg'
 let name = await conn.getName(m.sender)
 let _uptime = process.uptime() * 1000
 let _muptime
