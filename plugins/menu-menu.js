@@ -624,7 +624,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
+title: '👑 𝐌𝐮𝐥𝐭𝐢𝐯𝐞𝐫𝐬𝐞 - 𝐁𝐎𝐓 👑',
 body: null,
 thumbnail: img,
 sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
