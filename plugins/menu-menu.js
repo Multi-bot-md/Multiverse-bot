@@ -7,7 +7,7 @@ import { promises } from 'fs'
 import { join } from 'path'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) => {
 try {
-let vn = './media/menu.mp3'
+let vn = './media/68747470733a2f2f692e6962622e636f2f474d67626a43742f494d472d32303232303632322d5741303030312e6a7067.jpeg'
 let pp = imagen4
 let img = await(await fetch('https://www.paidmembershipspro.com/wp-content/uploads/2017/07/PayPal-Express.png')).buffer()
 let d = new Date(new Date + 3600000)
@@ -25,28 +25,28 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
+╭═══〘 ☘︎☘︎☘︎☘︎☘︎☘︎☘︎☘︎☘︎ 〙══╮
+║    ◉— *𝐌𝐮𝐥𝐭𝐢𝐯𝐞𝐫𝐬𝐞 - 𝐁𝐨𝐭* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Bruno Sobrino
-║➤ *Numero:* wa.me/5219992095479
-║➤ *Bot ofc:* wa.me/529993404349
-║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
-║➤ *Fecha:* ${date}
-║➤ *Tiempo activo:* ${uptime}
-║➤ *Usuarios:* ${rtotalreg}
-╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
+║➤ *👑Owner:* Alexis OFC
+║➤ *📱Numero:* wa.me/5214531106422
+║➤ *🤖Bot ofc:* wa.me/no ahí bot
+║➤ *💰PayPal:* https://www.paypal.me/TheShadowBrokers133
+║➤ *🌅Fecha:* ${date}
+║➤ *⏰Tiempo activo:* ${uptime}
+║➤ *👥Usuarios:* ${rtotalreg}
+╰═══╡☘︎☘︎☘︎☘︎☘︎☘︎☘︎☘︎☘︎╞═══╯
 
 ┏━━━━━━━━━━━━━━━━━━━┓
 ┃ *< 𝕀ℕ𝔽𝕆 𝔻𝔼𝕃 𝕌𝕊𝕌𝔸ℝ𝕀𝕆 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ *🎖️ Nivel:* ${level}
-┣ *🧰 Experiencia:* ${exp}
+┣ *🏆 Nivel:* ${level}
+┣ *⚡ Experiencia:* ${exp}
 ┣ *⚓ Rango:* ${role}
 ┣ *💎 Diamantes:* ${limit}
-┣ *👾 MysticCoins:* ${money}
+┣ *🏅 MultiCoins:* ${money}
 ┣ *🪙 Tokens:* ${joincount}
 ┣ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : '❌'}
 ┗━━━━━━━━━━━━━━━━━━━┛
@@ -60,15 +60,15 @@ ${readMore}
 ┏━━━━━━━━━━━━━━━━━━━┓
 ┃ *< 𝕀ℕ𝔽𝕆 𝔹𝕆𝕋 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 💟 _${usedPrefix}grupos_
-┣ ඬ⃟ 💟 _${usedPrefix}estado_
-┣ ඬ⃟ 💟 _${usedPrefix}infobot_
-┣ ඬ⃟ 💟 _${usedPrefix}speedtest_
-┣ ඬ⃟ 💟 _${usedPrefix}donar_
-┣ ඬ⃟ 💟 _${usedPrefix}grouplist_
-┣ ඬ⃟ 💟 _${usedPrefix}owner_
-┣ ඬ⃟ 💟 _${usedPrefix}script_
-┣ ඬ⃟ 💟 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+┣ ඬ⃟ 🔰 _${usedPrefix}grupos_
+┣ ඬ⃟ 🔰 _${usedPrefix}estado_
+┣ ඬ⃟ 🔰 _${usedPrefix}infobot_
+┣ ඬ⃟ 🔰 _${usedPrefix}speedtest_
+┣ ඬ⃟ 🔰 _${usedPrefix}donar_
+┣ ඬ⃟ 🔰 _${usedPrefix}grouplist_
+┣ ඬ⃟ 🔰 _${usedPrefix}owner_
+┣ ඬ⃟ 🔰 _${usedPrefix}script_
+┣ ඬ⃟ 🔰 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━┓
@@ -88,35 +88,35 @@ ${readMore}
 ┏━━━━━━━━━━━━━━━━━━━┓
 ┃ *< 𝕁𝕌𝔼𝔾𝕆𝕊 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}prostituto *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}prostituta *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}gay2 *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}lesbiana *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}pajero *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}pajera *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}puto *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}puta *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}manco *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}manca *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}rata *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}love *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}pregunta *<texto>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}suitpvp *<@tag>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}slot *<apuesta>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}ttt *<nombre sala>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}delttt_
-┣ ඬ⃟ 🎖️ _${usedPrefix}simi *<texto>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}top *<texto>*_
-┣ ඬ⃟ 🎖️ _${usedPrefix}topgays_
-┣ ඬ⃟ 🎖️ _${usedPrefix}topotakus_
-┣ ඬ⃟ 🎖️ _${usedPrefix}formarpareja_
-┣ ඬ⃟ 🎖️ _${usedPrefix}verdad_
-┣ ඬ⃟ 🎖️ _${usedPrefix}reto_
-┣ ඬ⃟ 🎖️ _${usedPrefix}cancion_
-┣ ඬ⃟ 🎖️ _${usedPrefix}pista_
+┣ ඬ⃟ 🎮 _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}ppt *<papel / tijera /piedra>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}prostituto *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}prostituta *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}gay2 *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}lesbiana *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}pajero *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}pajera *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}puto *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}puta *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}manco *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}manca *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}rata *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}love *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}doxear *<nombre / @tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}pregunta *<texto>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}suitpvp *<@tag>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}slot *<apuesta>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}ttt *<nombre sala>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}delttt_
+┣ ඬ⃟ 🎮 _${usedPrefix}simi *<texto>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}top *<texto>*_
+┣ ඬ⃟ 🎮 _${usedPrefix}topgays_
+┣ ඬ⃟ 🎮 _${usedPrefix}topotakus_
+┣ ඬ⃟ 🎮 _${usedPrefix}formarpareja_
+┣ ඬ⃟ 🎮 _${usedPrefix}verdad_
+┣ ඬ⃟ 🎮 _${usedPrefix}reto_
+┣ ඬ⃟ 🎮 _${usedPrefix}cancion_
+┣ ඬ⃟ 🎮 _${usedPrefix}pista_
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━┓
@@ -151,7 +151,7 @@ ${readMore}
 ┏━━━━━━━━━━━━━━━━━━━┓
 ┣ *< ℝ𝔼ℙ𝕆ℝ𝕋𝔸ℝ 𝔼ℝℝ𝕆ℝ𝔼𝕊 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 🔰 _${usedPrefix}reporte *<texto>*_
+┣ ඬ⃟ 💌 _${usedPrefix}reporte *<texto>*_
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━┓
