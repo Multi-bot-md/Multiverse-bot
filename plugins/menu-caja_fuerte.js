@@ -8,15 +8,15 @@ try {
 } finally {
 let name = await conn.getName(m.sender)
 let str = `
-*_ミ💖 𝙷𝙾𝙻𝙰 ${name} 💖彡_*
+*_ミ🍁 𝙷𝙾𝙻𝙰 ${name} 🍁彡_*
 
 ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${global.conn.user.jid.split`@`[0]}`)}
 
-ㅤㅤ *🗳️<ℂ𝔸𝕁𝔸 𝔽𝕌𝔼ℝ𝕋𝔼/>🔐*
+ㅤㅤ *🗳️<𝘾𝘼𝙅𝘼 𝙁𝙐𝙀𝙍𝙏𝙀/>🔐*
 
 - 𝙰𝚀𝚄𝙸 𝙿𝚄𝙴𝙳𝙴 𝙶𝚄𝙰𝚁𝙳𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰𝚂 𝚅𝙴𝚁 𝙼𝙰𝚂 𝚃𝙰𝚁𝙳𝙴
 
-*<𝔸𝔾ℝ𝔼𝔾𝔸ℝ 𝔸 𝕃𝔸 𝕃𝕀𝕊𝕋𝔸/>*
+*<𝘼𝙂𝙍𝙀𝙂𝘼𝙍 𝘼 𝙈𝘼 𝙇𝙄𝙎𝙏𝘼/>*
 
 ° ඬ⃟🗳️ _${usedPrefix}agregarmsg *<texto/comando/palabra clave>* (responde a un texto)_
 ° ඬ⃟🗳️ _${usedPrefix}agregarvn *<texto/comando/palabra clave>* (responde a una nota de voz)_
