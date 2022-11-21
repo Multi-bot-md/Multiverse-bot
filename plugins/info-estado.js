@@ -18,7 +18,7 @@ let estado =`
 ╰───────────────
 `.trim()
 
-conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/Multi-bot-md/Multiverse-bot', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['☘️𝙈𝙀𝙉𝙐☘️', '/menu']
 ], m)}
 
