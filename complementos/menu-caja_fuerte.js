@@ -14,7 +14,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 
 ㅤㅤ *🗳️<𝘾𝘼𝙅𝘼 𝙁𝙐𝙀𝙍𝙏𝙀/>🔐*
 
-- 𝙰𝚀𝚄𝙸 𝙿𝚄𝙴𝙳𝙴 𝙶𝚄𝙰𝚁𝙳𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰𝚂 𝚅𝙴𝚁 𝙼𝙰𝚂 𝚃𝙰𝚁𝙳𝙴
+- 𝙰𝚀𝚄𝙸 𝙿𝚄𝙴𝙳𝙴 𝙶𝚄𝙰𝚁𝙳𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝚀𝚄𝙴 𝚀𝚄𝙸𝙴𝚁𝙰𝚂 𝚅𝙴𝚁 𝙼𝙰𝚂 𝚃𝙰𝚁𝙳𝙴 
 
 *<𝘼𝙂𝙍𝙀𝙂𝘼𝙍 𝘼 𝙈𝘼 𝙇𝙄𝙎𝙏𝘼/>*
 
@@ -25,7 +25,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🗳️ _${usedPrefix}agregarimg *<texto/comando/palabra clave>* (responde a una imagen)_
 ° ඬ⃟🗳️ _${usedPrefix}agregarsticker *<texto/comando/palabra clave>* (responde a un sticker)_
 
-*<𝕃𝕀𝕊𝕋𝔸 𝔻𝔼 ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊/>*
+*<𝙇𝙄𝙎𝙏𝘼 𝘿𝙀 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎/>*
 
 ° ඬ⃟🗳️ _${usedPrefix}listamsg_
 ° ඬ⃟🗳️ _${usedPrefix}listavn_
@@ -34,7 +34,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🗳️ _${usedPrefix}listaimg_
 ° ඬ⃟🗳️ _${usedPrefix}listasticker_
 
-*<𝕍𝔼ℝ 𝕋𝔼𝕏𝕋𝕆𝕊 𝕆 𝔸ℝℂℍ𝕀𝕍𝕆𝕊/>*
+*<𝙑𝙀𝙍 𝙏𝙀𝙓𝙏𝙊𝙎 𝙊 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎/>*
 
 ° ඬ⃟🗳️ _${usedPrefix}vermsg *<texto/comando/palabra clave>*_
 ° ඬ⃟🗳️ _${usedPrefix}vervn *<texto/comando/palabra clave>*_
@@ -43,7 +43,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🗳️ _${usedPrefix}verimg *<texto/comando/palabra clave>*_
 ° ඬ⃟🗳️ _${usedPrefix}versticker *<texto/comando/palabra clave>*_
 
-*<𝔼𝕃𝕀𝕄𝕀ℕ𝔸ℝ/>*
+*<𝙀𝙇𝙄𝙈𝙄𝙉𝘼𝙍/>*
 
 ° ඬ⃟🗳️ _${usedPrefix}eliminarmsg *<texto/comando/palabra clave>*_
 ° ඬ⃟🗳️ _${usedPrefix}eliminarvn *<texto/comando/palabra clave>*_
@@ -53,7 +53,7 @@ ${(conn.user.jid == global.conn.user.jid ? '' : `Jadibot de: https://wa.me/${glo
 ° ඬ⃟🗳️ _${usedPrefix}eliminarsticker *<texto/comando/palabra clave>*_`.trim()
 
 conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
-['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
+['🍁𝑀𝐸𝑁𝑈🍁', '/menu']
 ], m)
 }}
 handler.help = ['cajafuerte']
